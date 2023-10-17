@@ -31,7 +31,8 @@ BEGINNER TO INTERMEDIATE CYBER SECURITY TRAINING(BTICST)
     o	Cloud Application Security
     o	Cloud Security Operations
     o	Legal, Risk and Compliance
-# •	Programming Basic: C, PHP, Python, SQL, Java Script
+# •	Programming Basic: 
+        C, PHP, Python, SQL, Java Script
 # •	Ethical Hacking & Cyber Security: 
     o	Types Of hackers
     o	Cyber security VS Hacking
