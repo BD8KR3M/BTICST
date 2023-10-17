@@ -1,6 +1,8 @@
 # BTICST
-BEGINNER TO INTERMEDIATE CYBER SECURITY TRAINING (BTICST)
-
+BEGINNER TO INTERMEDIATE CYBER SECURITY TRAINING (BTICST) <br> <br>
+**Registration:** https://forms.gle/BNoE8PTeCtAEak6q9
+ <br>
+# Course Outline:
 ## •	Computer Hardware Components.
 ## •	Operating Systems.
 ## •	Windows Basic:
