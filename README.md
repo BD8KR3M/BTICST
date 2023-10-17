@@ -13,9 +13,9 @@ BEGINNER TO INTERMEDIATE CYBER SECURITY TRAINING (BTICST)
     o	Network Commands
     o	Tool Handling Commands
     o	Handling File & Directory Permissions
-    •	Common Online Tools:
+# •	Common Online Tools:
     o	virus total, shodan.io, any. run, URL scan, WHOIS
-    •	Network Basics for Hackers: 
+# •	Network Basics for Hackers: 
     o	What is a Computer Network? 
     o	IP and MAC Addresses
     o	Subnetting
